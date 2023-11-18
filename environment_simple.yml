@@ -1,0 +1,13 @@
+name: aditya_parikh_NRG_practicum
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - lightgbm
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - xgboost
+  - seaborn
+  - git
+prefix: C:\Users\adity\anaconda3\envs\aditya_parikh_NRG_practicum
