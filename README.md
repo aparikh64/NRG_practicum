@@ -1,6 +1,6 @@
 ## Project Setup Instructions
 
-1. Clone this repository: `git clone <repository-url>`
+1. Clone this repository: `git clone https://github.com/aparikh64/NRG_practicum.git`
 2. Create and activate a virtual environment:
    - Conda: `conda env create -f environment.yml` (OR `conda env create -f environment_simple.yml`) and `conda activate aditya_parikh_NRG_practicum`
 3. Run Jupyter Notebook with name 'run_code.ipynb'
